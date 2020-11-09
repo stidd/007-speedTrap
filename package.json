@@ -1,0 +1,15 @@
+{
+  "name": "007-speedTrap",
+  "version": "1.0.0",
+  "description": "A police department has set speed traps to catch people speeding around town. They set up traps that have long ropelike road switches that go across the roadway. Like this.",
+  "main": "speedTrap.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
